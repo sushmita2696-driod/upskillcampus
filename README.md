@@ -2,7 +2,7 @@
 # 🏦 Smart Bank Management System
 A simple java-based banking management system that allows users to create accounts, manage their balance, perform transactions, and view transaction history.
 
-##✨ Features
+## ✨ Features
 
 👤 Create a new bank account
 🔐 User login authentication
@@ -14,7 +14,7 @@ A simple java-based banking management system that allows users to create accoun
 🚪 Secure logout
 
 
-##🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 
 Programming Language: Java
@@ -25,7 +25,7 @@ IDE: IntelliJ IDEA / Eclipse / VS Code
 Version Control: Git & GitHub
 
 
-##📁 Project Structure
+## 📁 Project Structure
 
 
 SmartBankManagementSystem/
