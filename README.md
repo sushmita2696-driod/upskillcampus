@@ -4,29 +4,34 @@ A simple java-based banking management system that allows users to create accoun
 
 ## ✨ Features
 
-👤 Create a new bank account
-🔐 User login authentication
+👤User Registration
+
 💰 Check account balance
+
 ➕ Deposit money
+
 ➖ Withdraw money
+
 💸 Transfer money between accounts
+
 📜 View transaction history
+
 🚪 Secure logout
 
 
 ## 🛠️ Technologies Used
 
 Programming Language: Java
+
 Concepts: OOP, Classes, Objects, Methods
-Collection: ArrayList
-Input: Scanner
-IDE: IntelliJ IDEA / Eclipse / VS Code
+
 Version Control: Git & GitHub
 
 
 ## 📁 Project Structure
-upskillcampus/
+
+BankingManagementSystem/
 │
 ├── BankingInformationSystem.java
-├── BankingInformationSystem_Sushmita_Poddar_USC_UCT.pdf
+├──  BankingInformationSystem_Sushmita_USC_UCT.pdf 
 └── README.md
