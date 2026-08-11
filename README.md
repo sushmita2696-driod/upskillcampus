@@ -16,7 +16,6 @@ A simple java-based banking management system that allows users to create accoun
 
 ## 🛠️ Technologies Used
 
-
 Programming Language: Java
 Concepts: OOP, Classes, Objects, Methods
 Collection: ArrayList
@@ -26,10 +25,6 @@ Version Control: Git & GitHub
 
 
 ## 📁 Project Structure
-
-
 SmartBankManagementSystem/
-│
-upskillcampus/
 ├── BankingInformationSystem.java
 └── BankingInformationSystem_Sushmita_USC_UCT.pdf
