@@ -28,5 +28,5 @@ Version Control: Git & GitHub
 upskillcampus/
 │
 ├── BankingInformationSystem.java
-├── Internship_Report.docx
+├── BankingInformationSystem_Sushmita_Poddar_USC_UCT.pdf
 └── README.md
