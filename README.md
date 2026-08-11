@@ -25,6 +25,8 @@ Version Control: Git & GitHub
 
 
 ## 📁 Project Structure
-SmartBankManagementSystem/
+upskillcampus/
+│
 ├── BankingInformationSystem.java
-└── BankingInformationSystem_Sushmita_USC_UCT.pdf
+├── Internship_Report.docx
+└── README.md
